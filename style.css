@@ -1,0 +1,31 @@
+h1{
+    color:aqua
+
+}
+
+/* *{
+    border:solid
+
+} */
+
+.headder{ 
+  background-color:black;
+  display:flex;
+justify-content:space-between;
+}
+
+ .grid{
+    display:flex;
+ flex-wrap: wrap;
+justify-content: space-evenly;
+ }
+
+P,h2{
+   text-align: center;
+
+}
+
+.YT{
+    display:flex;
+    justify-content: flex-end;
+}
